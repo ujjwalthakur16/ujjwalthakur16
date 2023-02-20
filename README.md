@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ujjwalthakur16
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python  
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning dotnet 
 - 📫 How to reach me ujjwalut2001@gmail.com
 
 <!---
